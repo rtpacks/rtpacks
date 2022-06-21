@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azin-cn
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Go, Java
+- 🌱 I’m currently learning Java, Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
