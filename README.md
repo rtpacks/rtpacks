@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @azin-cn
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Rust, implementing my tools
+- 🔗 https://www.azin.cn/
 
 <!---
 azin-cn/azin-cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
