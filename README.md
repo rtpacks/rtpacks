@@ -2,6 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Rust, implementing my tools
 - 🔗 https://www.azin.cn/
+- 🔗 https://azin-cn.github.io/
 
 <!---
 azin-cn/azin-cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
