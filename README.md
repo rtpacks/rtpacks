@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @azin-cn
-- 👀 I’m interested in coding
-- 🌱 I’m learning **Rust, C++**
+- 👀 I'm interested in coding
+- 🌱 I'm learning **Rust** and **C++**, and I'm also implementing my tools
 - 🔗 https://www.azin.cn/
 - 🔗 https://azin-cn.github.io/
 
