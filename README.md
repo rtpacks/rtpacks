@@ -6,8 +6,8 @@
 
 🔊 Programming languages
   - Rust
-  - Node.js
   - TypeScript
+  - Node.js
 
 🌏 Web development
   - React.js
