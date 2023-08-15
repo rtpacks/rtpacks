@@ -13,6 +13,7 @@
   - React.js
   - Vue.js
   - Nest.js
+  - Mini program
 
 🎨 Data visualization
   - Echarts
