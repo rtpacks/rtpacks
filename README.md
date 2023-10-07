@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @azin-cn, a full stack developer
+- 👋 Hi, I’m @rtpacks, a full stack developer
 - 👀 I'm interested in coding
-- 🌱 I'm learning **Rust** and **Go**, and I'm also implementing my tools
+- 🌱 I'm learning **Rust**, and I'm also implementing my tools
 - 🔗 https://www.azin.cn/
 - 🔗 https://azin-cn.github.io/
 
