@@ -2,7 +2,7 @@
 - 👀 I'm interested in coding
 - 🌱 I'm learning **Rust**, and I'm also implementing my tools
 - 🔗 https://www.azin.cn/
-- 🔗 https://azin-cn.github.io/
+- 🔗 https://rtpacks.github.io/
 
 🔊 Programming languages
   - Rust
