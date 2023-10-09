@@ -7,12 +7,11 @@
 🔊 Programming languages
   - Rust
   - TypeScript
-  - Node.js
 
 🌏 Web development
   - React.js
   - Vue.js
-  - Nest.js
+  - Nest.js (Node.js)
   - Mini program
 
 🎨 Data visualization
