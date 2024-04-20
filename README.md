@@ -12,8 +12,9 @@
 🌏 Web development
   - React.js
   - Vue.js
-  - Nest.js (Node.js)
   - Mini program
+  - Nest.js (Node.js)
+  - FastApi
 
 🎨 Data visualization
   - Echarts
@@ -21,6 +22,6 @@
 
 ♨️🥇🏅🎖️🏆🔔🧲📂👀🌐📊
 <!---
-azin-cn/azin-cn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+rtpacks/rtpacks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
