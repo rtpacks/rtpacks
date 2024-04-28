@@ -22,9 +22,9 @@
 
 ♨️🥇🏅🎖️🏆🔔🧲📂👀🌐📊
 
-<p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=rtpacks&custom_title=rtpacks's%20GitHub%20statistics&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="rtpacks" />
-  <img height="200px" />
+<p align="left">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpacks&hide=HTML&layout=compact" alt="rtpacks" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=rtpacks&custom_title=rtpacks's%20GitHub%20Stats&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent" alt="rtpacks" />
 </p>
 
 <!---
