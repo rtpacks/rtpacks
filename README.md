@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @rtpacks, a full stack developer
 - 👀 I'm interested in coding
 - 🌱 I'm learning **Rust**, and I'm also implementing my tools
-- 🔗 https://www.withx.cn/
 - 🔗 https://rtpacks.github.io/
+- 🔗 https://www.withx.cn/
 
 🔊 Programming languages
   - Rust
