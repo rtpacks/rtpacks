@@ -24,7 +24,7 @@
 
 <p align="left">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/?username=rtpacks&custom_title=rtpacks's%20GitHub%20Stats&show_icons=true&theme=shadow_green&rank_icon=percentile&include_all_commits=true&theme=transparent&card_width=150" alt="rtpacks" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpacks&hide=HTML&layout=compact&card_width=150" alt="rtpacks" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rtpacks&hide=HTML,CSS,SCSS,LESS,PHP&layout=compact&card_width=150" alt="rtpacks" />
 </p>
 
 <!---
