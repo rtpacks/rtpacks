@@ -5,16 +5,15 @@
 - 🔗 https://www.withx.cn/
 
 🔊 Programming languages
-  - Rust
-  - TypeScript
-  - Python
+- Rust
+- TypeScript
+- Python
 
 🌏 Web development
-  - React.js
-  - Vue.js
-  - Mini program
-  - Nest.js (Node.js)
-  - FastApi
+|    Language     | Framework |
+|  ---------  | --------- |
+|    Frontend     |  React.js, Vue.js, Mini program |
+| Backend | Nest.js (Node.js), FastApi|
 
 🎨 Data visualization
   - Echarts
