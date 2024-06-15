@@ -10,7 +10,7 @@
 - Python
 
 🌏 Web development
-|    Language     | Framework |
+|    Type     | Framework |
 |  ---------  | --------- |
 |    Frontend     |  React.js, Vue.js, Mini program |
 | Backend | Nest.js (Node.js), FastApi|
